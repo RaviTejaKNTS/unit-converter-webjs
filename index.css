@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #F4F4F4;
+}
+
+#head-div {
+    background-color: #6943FF;
+    padding: 50PX;
+    font-size: 18px;
+    color: white;
+}
+
+#input-text{
+    width: 300px;
+    height: 70px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #6943FF;
+    color: white;
+    font-size: 50px;
+    font-style: bold;
+    padding: 0 30px;
+}
+
+#convert-btn {
+    background-color: white;
+    color: #3D3D3D;
+    display: block;
+    margin: 30px auto;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+}
+
+#body-div{
+    margin: 30px;
+}
+
+#card-div{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 30px auto;
+    background-color: white;
+    color: #5A537B;
+    padding: 30px;
+    max-width: 900px;
+}
+
+#length-el, #volume-el, #mass-el{
+    color: black;
+}
